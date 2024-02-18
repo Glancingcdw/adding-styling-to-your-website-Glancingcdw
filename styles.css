@@ -1,0 +1,48 @@
+/* Homepage styles */
+.home h1 {
+    color: #5d8aa8;
+}
+
+.home p {
+    color: #654321;
+}
+
+.home {
+    background-color: #006b3c;
+}
+
+/* About Me page styles */
+.about h1 {
+    color: #ff033e;
+}
+
+.about p {
+    color: #fedcba;
+}
+
+.about {
+    background-color: #bd33a4; /* Replace with your preferred color */
+}
+
+/* Contact Me page styles */
+.contact label,
+.contact input,
+.contact textarea {
+    color: #cc0000;
+}
+
+.contact {
+    background-color: #c9f0d0; /* Replace with your preferred color */
+}
+
+/* Navigation bar styles */
+nav {
+    background-color: #9f8170;
+}
+
+nav a {
+    color: #123456;
+}
+.resume {
+    background-color: #5f9ea0; /* Replace with your preferred color */
+}
